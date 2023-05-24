@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pytest_proj"
+version = "0.1.0"
+description = "aaa"
+authors = ["Кирилл <kerik006@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
